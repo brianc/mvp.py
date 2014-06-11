@@ -1,0 +1,5 @@
+setup.py
+minimum_viable_pip_package/minimum_viable_pip_package.egg-info/PKG-INFO
+minimum_viable_pip_package/minimum_viable_pip_package.egg-info/SOURCES.txt
+minimum_viable_pip_package/minimum_viable_pip_package.egg-info/dependency_links.txt
+minimum_viable_pip_package/minimum_viable_pip_package.egg-info/top_level.txt
