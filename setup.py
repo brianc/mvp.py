@@ -6,9 +6,7 @@ setup(
     name=package,
     author='Brian M. Carlson',
     author_email='brian.m.carlson@gmail.com',
-    version='0.0.2',
+    version='0.0.4',
     url='https://github.com/brianc/minimum_viable_pip_package',
-    package_dir={
-        '': package
-    }
+    packages=[package]
 )
