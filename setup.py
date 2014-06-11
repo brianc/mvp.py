@@ -7,6 +7,6 @@ setup(
     author='Brian M. Carlson',
     author_email='brian.m.carlson@gmail.com',
     version='0.0.4',
-    url='https://github.com/brianc/minimum_viable_pip_package',
+    url='https://github.com/brianc/mvp.py',
     packages=[package]
 )
