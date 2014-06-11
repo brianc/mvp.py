@@ -1,0 +1,11 @@
+minimum viable pip package (mvp.py)
+
+Demonstrates the simplest pip package I could come up with.  Good starting template for sharing code very quickly.
+
+To publish:
+
+```
+git clone https://github.com/brianc/mvp.py.git
+cd mvp.py
+python setup.py check register sdist upload && rm -r dist/
+```
